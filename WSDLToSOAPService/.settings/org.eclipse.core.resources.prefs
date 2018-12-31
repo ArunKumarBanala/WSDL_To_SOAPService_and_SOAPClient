@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/arun/jaxws/beans/Person.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImpl.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImplService.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImplServiceLocator.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImplSoapBindingImpl.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImplSoapBindingSkeleton.java=UTF-8
+encoding//src/com/arun/jaxws/service/PersonServiceImplSoapBindingStub.java=UTF-8
